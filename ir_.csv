@@ -1,0 +1,414 @@
+id,name,latitude,longitude,country
+0,Tehran,35.7,51.4167,Iran
+1,Mashhad,36.3069,59.6042,Iran
+2,Eşfahān,32.6447,51.6675,Iran
+3,Karaj,35.8327,50.9915,Iran
+4,Tabrīz,38.0833,46.2833,Iran
+5,Shīrāz,29.61,52.5425,Iran
+6,Qom,34.6461,50.8789,Iran
+7,Ahvāz,31.3203,48.6692,Iran
+8,Kermānshāh,34.3167,47.0686,Iran
+9,Orūmīyeh,37.55,45.1,Iran
+10,Rasht,37.2833,49.6,Iran
+11,Kermān,30.2833,57.0667,Iran
+12,Zāhedān,29.4833,60.8667,Iran
+13,Eslāmshahr,35.5333,51.2,Iran
+14,Hamadān,34.8065,48.5162,Iran
+15,Yazd,31.8972,54.3678,Iran
+16,Arāk,34.08,49.7,Iran
+17,Ardabīl,38.25,48.3,Iran
+18,Bandar ‘Abbās,27.2,56.25,Iran
+19,Zanjān,36.6667,48.4833,Iran
+20,Kāshān,33.9833,51.4333,Iran
+21,Qazvīn,36.2688,50.0041,Iran
+22,Sanandaj,35.3097,46.9989,Iran
+23,Khorramābād,33.4667,48.35,Iran
+24,Sārī,36.5658,53.0597,Iran
+25,Gorgān,36.83,54.48,Iran
+26,Shahrīār,35.6597,51.0592,Iran
+27,Shahr-e Qods,35.7214,51.1089,Iran
+28,Malārd,35.6658,50.9767,Iran
+29,Sartā,36.5504,53.1,Iran
+30,Dezfūl,32.3878,48.4033,Iran
+31,Bābol,36.55,52.6833,Iran
+32,Būkān,36.5208,46.2117,Iran
+33,Sabzevār,36.2167,57.6667,Iran
+34,Āmol,36.4669,52.3569,Iran
+35,Pākdasht,35.4817,51.6803,Iran
+36,Najafābād,32.6342,51.3667,Iran
+37,Borūjerd,33.8972,48.7514,Iran
+38,Madan,30.3392,48.3042,Iran
+39,Qarchak,35.4394,51.5689,Iran
+40,Varāmīn,35.2714,51.6511,Iran
+41,Neyshābūr,36.22,58.82,Iran
+42,Sāveh,35.0211,50.3564,Iran
+43,Khomeynī Shahr,32.7,51.5211,Iran
+44,Qā’em Shahr,36.4611,52.8606,Iran
+45,Nasīm Shahr,35.5644,51.1647,Iran
+46,Bojnūrd,37.4667,57.3333,Iran
+47,Bandar-e Būshehr,28.9667,50.8333,Iran
+48,Khowy,38.5503,44.9519,Iran
+49,Fardīs,35.7247,50.9883,Iran
+50,Bīrjand,32.8667,59.2,Iran
+51,Marāgheh,37.3833,46.2667,Iran
+52,Sīrjān,29.47,55.73,Iran
+53,Shāhīn Shahr,32.8639,51.5475,Iran
+54,Malāyer,34.2942,48.82,Iran
+55,Saqqez,36.2497,46.2733,Iran
+56,Bandar-e Māhshahr,30.5589,49.1981,Iran
+57,Mahābād,36.7704,45.72,Iran
+58,Rafsanjān,30.4,56.0,Iran
+59,Shahr-e Kord,32.3256,50.8644,Iran
+60,Semnān,35.5833,53.3833,Iran
+61,Golmeh,33.6304,46.43,Iran
+62,Gonbad-e Kāvūs,37.25,55.1672,Iran
+63,Shāhrūd,36.4167,55.0167,Iran
+64,Marvdasht,29.8742,52.8025,Iran
+65,Qūchān,37.1118,58.5015,Iran
+66,Jahrom,28.5,53.56,Iran
+67,Kamālshahr,35.8622,50.8717,Iran
+68,Torbat-e Ḩeydarīyeh,35.2739,59.2194,Iran
+69,Pīrānshahr,36.6944,45.1417,Iran
+70,Marīvān,35.5269,46.1761,Iran
+71,Andīmeshk,32.45,48.35,Iran
+72,Shahreẕā,32.0089,51.8667,Iran
+73,Zābol,31.0308,61.4972,Iran
+74,Khorramshahr,30.4333,48.1833,Iran
+75,Marand,38.4167,45.7667,Iran
+76,Jīroft,28.6781,57.7406,Iran
+77,Bam,29.1083,58.3583,Iran
+78,Behbahān,30.5958,50.2417,Iran
+79,Dorūd,33.4933,49.075,Iran
+80,Naz̧arābād,35.9522,50.6075,Iran
+81,Moḩammad Shahr,35.7631,50.9172,Iran
+82,Īrānshahr,27.2025,60.6847,Iran
+83,Fasā,28.9381,53.6481,Iran
+84,Borāzjān,29.2667,51.2158,Iran
+85,Bāneh,35.9975,45.8853,Iran
+86,Yāsūj,30.6667,51.5833,Iran
+87,Chābahār,25.2836,60.6236,Iran
+88,Robāţ Karīm,35.4847,51.0828,Iran
+89,Khāk-e ‘Alī,36.1283,50.1764,Iran
+90,Kāshmar,35.2383,58.4656,Iran
+91,Shūshtar,32.0436,48.8569,Iran
+92,Ahar,38.475,47.0603,Iran
+93,Masjed Soleymān,31.9333,49.3,Iran
+94,Torbat-e Jām,35.2439,60.6225,Iran
+95,Kāzerūn,29.6167,51.65,Iran
+96,Shīrvān,37.3967,57.9294,Iran
+97,Salmās,38.2,44.7667,Iran
+98,Alīgūdarz,33.4006,49.6947,Iran
+99,Bonāb,37.3403,46.0561,Iran
+100,Tākestān,36.0694,49.6958,Iran
+101,Oshnavīyeh,37.0397,45.0983,Iran
+102,Bandar-e Genāveh,29.5833,50.5167,Iran
+103,Zarand,30.8128,56.5639,Iran
+104,Mobārakeh,32.3464,51.5044,Iran
+105,Dāmghān,36.1681,54.3481,Iran
+106,Tāybād,34.74,60.7756,Iran
+107,Zarrīn Shahr,32.3894,51.3764,Iran
+108,Ārān Bīdgol,34.0578,51.4842,Iran
+109,Hashtpar,37.7992,48.9053,Iran
+110,Bījār,35.8741,47.5937,Iran
+111,Sardasht,36.1553,45.4789,Iran
+112,Rāmhormoz,31.2783,49.6064,Iran
+113,Golpāyegān,33.4536,50.2883,Iran
+114,Aznā,33.4539,49.455,Iran
+115,Naţanz,33.5,51.9,Iran
+116,Takāb,36.4008,47.1131,Iran
+117,Darcheh,32.6153,51.5556,Iran
+118,Sarāb,37.9408,47.5367,Iran
+119,Bāft,29.2331,56.6022,Iran
+120,Khalkhāl,37.6189,48.5258,Iran
+121,Falāvarjān,32.5553,51.5097,Iran
+122,Sarpol-e Z̄ahāb,34.4614,45.8647,Iran
+123,Shāhīn Dezh,36.6792,46.5667,Iran
+124,Qahderījān,32.5767,51.455,Iran
+125,Hādīshahr,38.8478,45.6622,Iran
+126,Fūman,37.2239,49.3125,Iran
+127,Semīrom,31.4142,51.5694,Iran
+128,Sheybān,31.4086,48.7942,Iran
+129,Kelīshād va Sūdarjān,32.5542,51.525,Iran
+130,Goldasht,32.6267,51.4392,Iran
+131,Khvānsār,33.2206,50.315,Iran
+132,Gaz,32.8022,51.6208,Iran
+133,Khowrzūq,32.7781,51.6458,Iran
+134,Maḩmūdābād Nemūneh,36.2886,49.9019,Iran
+135,Kabūdarāhang,35.2083,48.7239,Iran
+136,Taft,31.7475,54.2042,Iran
+137,Dehāqān,31.94,51.6478,Iran
+138,Tīrān,32.7025,51.1536,Iran
+139,Amlash,37.0975,50.1864,Iran
+140,Ardestān,33.3797,52.3725,Iran
+141,Fāmenīn,35.1139,48.9717,Iran
+142,Fereydūnshahr,32.9411,50.1211,Iran
+143,Reẕvānshahr,37.5511,49.1394,Iran
+144,Ahram,28.8825,51.2744,Iran
+145,Poldasht,39.3481,45.0711,Iran
+146,Qaşr-e Shīrīn,34.5156,45.5792,Iran
+147,Komījān,34.7192,49.3267,Iran
+148,Chādegān,32.7683,50.6286,Iran
+149,Khūr,33.775,55.0831,Iran
+150,Chelgard,32.4681,50.1214,Iran
+151,Esfarāyen,37.0764,57.51,Iran
+152,Khondāb,34.3928,49.1839,Iran
+153,Īlām,33.6374,46.4227,Iran
+154,Eshtehārd,35.7256,50.3661,Iran
+155,Alvand,36.1892,50.0642,Iran
+156,Fereydūn Kenār,36.6861,52.52,Iran
+157,Bandar-e Anzalī,37.4667,49.4667,Iran
+158,Lāhījān,37.2042,50.0092,Iran
+159,Maḩmūdābād,36.6319,52.2629,Iran
+160,Bābolsar,36.7,52.65,Iran
+161,Bandar-e Torkaman,36.9,54.0667,Iran
+162,Langarūd,37.1969,50.1536,Iran
+163,Jūybār,36.6409,52.9121,Iran
+164,Āstāneh-ye Ashrafīyeh,37.2597,49.9444,Iran
+165,Kangān,27.8339,52.0628,Iran
+166,Bandar-e ‘Asalūyeh,27.4761,52.6075,Iran
+167,Āstārā,38.4291,48.872,Iran
+168,Şowme‘eh Sarā,37.3117,49.3219,Iran
+169,Bandar-e Gaz,36.7742,53.9481,Iran
+170,Hashtgerd,35.9619,50.68,Iran
+171,Fārsān,32.2569,50.5642,Iran
+172,‘Ajab Shīr,37.4775,45.8942,Iran
+173,Khorramdarreh,36.2031,49.1869,Iran
+174,Pīshvā,35.308,51.7267,Iran
+175,Rey,35.5935,51.44,Iran
+176,Pārsābād,39.6482,47.9174,Iran
+177,Mīāndoāb,36.9667,46.1096,Iran
+178,Narmāshīr,28.9511,58.6953,Iran
+179,Māsāl,37.3631,49.1329,Iran
+180,‘Alīābād-e Katūl,36.9083,54.8689,Iran
+181,Malekān,37.1458,46.1028,Iran
+182,‘Abbāsābād,36.7277,51.1057,Iran
+183,Ābādān,30.3392,48.3043,Iran
+184,Nahāvand,34.1883,48.3769,Iran
+185,Naqadeh,36.95,45.3833,Iran
+186,Behshahr,36.7,53.55,Iran
+187,Āzādshahr,37.0869,55.1739,Iran
+188,Javānrūd,34.8067,46.4914,Iran
+189,Rāmīān,37.016,55.1412,Iran
+190,Zehak,30.8939,61.6803,Iran
+191,Rūdsar,37.1375,50.2881,Iran
+192,Galūgāh,36.7272,53.8089,Iran
+193,Bahār,34.9069,48.4414,Iran
+194,Rāmsar,36.9169,50.6736,Iran
+195,Asadābād,34.7822,48.1183,Iran
+196,Shaft,37.1702,49.3998,Iran
+197,Nekā,36.6489,53.2958,Iran
+198,Kord Kūy,36.7931,54.1121,Iran
+199,Nowshahr,36.645,51.5,Iran
+200,Harsīn,34.2722,47.5861,Iran
+201,Gālīkesh,37.2719,55.4325,Iran
+202,Kavār,29.205,52.6897,Iran
+203,Chālūs,36.655,51.4204,Iran
+204,Āq Qalā,37.0139,54.455,Iran
+205,Tonekābon,36.8167,50.8775,Iran
+206,Oskū,37.9158,46.1236,Iran
+207,Qeshm,26.9581,56.2717,Iran
+208,Eslāmābād-e Gharb,34.1094,46.5275,Iran
+209,Pāveh,35.0433,46.3564,Iran
+210,Meybod,32.25,54.0167,Iran
+211,Dūst Moḩammad Khān,31.1447,61.7925,Iran
+212,Mīnūdasht,37.2289,55.3747,Iran
+213,Tūyserkān,34.5481,48.4467,Iran
+214,Mollās̄ānī,31.5847,48.8859,Iran
+215,Namīn,38.4269,48.4839,Iran
+216,Ābyek,36.0167,50.5167,Iran
+217,Lordegān,31.5097,50.8283,Iran
+218,Abhar,36.25,49.3667,Iran
+219,Showţ,39.2192,44.77,Iran
+220,Ţorqabeh,36.3103,59.3736,Iran
+221,Dowlatābād,32.7997,51.6953,Iran
+222,Shūsh,32.1942,48.2436,Iran
+223,Kūhdasht,33.53,47.6,Iran
+224,Damāvand,35.7178,52.065,Iran
+225,Eyvān,33.8272,46.3097,Iran
+226,Nūrābād,34.0734,47.9725,Iran
+227,Āz̄arshahr,37.7589,45.9783,Iran
+228,Şaḩneh,34.4814,47.6908,Iran
+229,Kāmyārān,34.7956,46.9355,Iran
+230,Shahrak-e Bākharz,34.992,60.3171,Iran
+231,Bāgh-e Malek,31.5236,49.8894,Iran
+232,Sīāhkal,37.1528,49.8708,Iran
+233,Shabestar,38.1803,45.7028,Iran
+234,Borūjen,31.9683,51.2894,Iran
+235,Kahnūj,27.9519,57.6996,Iran
+236,Jam,27.8278,52.3267,Iran
+237,Kherāmeh,29.5,53.3164,Iran
+238,Shādegān,30.6497,48.6647,Iran
+239,Aleshtar,33.8631,48.2617,Iran
+240,Razan,35.3864,49.0336,Iran
+241,Maşīrī,30.2458,51.5223,Iran
+242,Sar‘eyn,38.1514,48.0708,Iran
+243,Kalāleh,37.3808,55.4917,Iran
+244,Qarah Ẕīā’ od Dīn,38.8914,45.0253,Iran
+245,Shāzand,33.9275,49.4114,Iran
+246,Sarvābād,35.3125,46.3667,Iran
+247,Khomeyn,33.6422,50.0789,Iran
+248,Mīnāb,27.131,57.0872,Iran
+249,Darreh Shahr,33.1397,47.3761,Iran
+250,Chenārān,36.6456,59.1211,Iran
+251,Nūr,36.5717,52.0153,Iran
+252,Sūsangerd,31.5608,48.1831,Iran
+253,Rūdān,27.4419,57.192,Iran
+254,Gomīshān,37.0717,54.0767,Iran
+255,Omīdīyeh,30.7597,49.705,Iran
+256,Tajrīsh,35.8044,51.4256,Iran
+257,Shalamzār,32.0439,50.8139,Iran
+258,Dehdasht,30.7936,50.565,Iran
+259,Germī,39.0214,48.08,Iran
+260,Pā’īn-e Bāzār-e Rūdbār,36.8211,49.4264,Iran
+261,Ravānsar,34.7153,46.6533,Iran
+262,Dārān,32.9874,50.4108,Iran
+263,Meshgīn Shahr,38.3989,47.6819,Iran
+264,Sonqor,34.7836,47.6003,Iran
+265,Bīleh Savār,39.3796,48.3546,Iran
+266,Mohr,27.555,52.8833,Iran
+267,Jolfā,38.9353,45.6431,Iran
+268,Qorveh,35.1664,47.8044,Iran
+269,Estahbān,29.1264,54.0419,Iran
+270,Dehgolān,35.2778,47.4183,Iran
+271,Do Gonbadān,30.3586,50.7981,Iran
+272,Fīrūzābād,28.8438,52.5707,Iran
+273,Bostānābād,37.8463,46.8354,Iran
+274,Neqāb,36.7081,57.4214,Iran
+275,Fārūj,37.2312,58.219,Iran
+276,Khalīlābād,35.254,58.2857,Iran
+277,Mīāneh,37.4167,47.7,Iran
+278,Sarābleh,33.7667,46.5664,Iran
+279,Sīsakht,30.8639,51.4558,Iran
+280,Sepīdān,30.2606,51.9842,Iran
+281,Arsanjān,29.9122,53.3083,Iran
+282,Sūrak,36.595,53.2075,Iran
+283,Sarāb-e Dūreh,33.5628,48.0222,Iran
+284,Joghtāy,36.635,57.0717,Iran
+285,Farīmān,35.7069,59.8501,Iran
+286,Bū’īn Zahrā,35.7669,50.0578,Iran
+287,Dārāb,28.7519,54.5444,Iran
+288,Farmahīn,34.5039,49.6844,Iran
+289,Rāmshīr,30.8947,49.4092,Iran
+290,Pol-e Sefīd,36.1178,53.0553,Iran
+291,Herīs,38.2472,47.1164,Iran
+292,Maḩallāt,33.9054,50.4572,Iran
+293,Gāvbandī,27.2083,53.0361,Iran
+294,Ţāleqān,36.1745,50.7691,Iran
+295,Bozghān,36.2858,58.5861,Iran
+296,Līkak,30.895,50.0931,Iran
+297,Gīlān-e Gharb,34.1422,45.9203,Iran
+298,Lālī,32.3298,49.0932,Iran
+299,Mākū,39.2951,44.4982,Iran
+300,Sarvestān,29.2733,53.2203,Iran
+301,Charām,30.746,50.746,Iran
+302,Dowlatābād,35.2822,59.5197,Iran
+303,Hashtrūd,37.4778,47.0508,Iran
+304,Deyr,27.8397,51.9378,Iran
+305,Seyah Cheshmeh,39.0728,44.3869,Iran
+306,Delījān,33.9903,50.6836,Iran
+307,Tāzehābād,34.7387,46.1496,Iran
+308,Khomārlū,39.1489,47.0347,Iran
+309,Ardal,31.9961,50.6564,Iran
+310,Ābbar,36.9263,48.9583,Iran
+311,Mahdīshahr,35.7,53.35,Iran
+312,Qal‘eh-ye Khvājeh,32.2064,49.4436,Iran
+313,Rābor,29.2911,56.9131,Iran
+314,Lāmerd,27.3339,53.1789,Iran
+315,Zarrīnābād,36.425,48.2819,Iran
+316,Dīvāndarreh,35.9139,47.0239,Iran
+317,Şafāshahr,30.6131,53.1953,Iran
+318,Sīrīk,26.5161,57.1019,Iran
+319,Kerend-e Gharb,34.2842,46.2422,Iran
+320,Nīr,38.0346,47.9986,Iran
+321,Marāveh Tappeh,37.9,55.95,Iran
+322,Bandar-e Lengeh,26.5578,54.8806,Iran
+323,Bāsht,30.3603,51.1617,Iran
+324,Eslāmābād,28.0261,58.0,Iran
+325,Ābdānān,32.9926,47.4198,Iran
+326,Poldokhtar,33.1536,47.7136,Iran
+327,Bandar-e Deylam,30.0542,50.1589,Iran
+328,Dargaz,37.3333,59.0833,Iran
+329,Gīvī,37.6858,48.342,Iran
+330,Sa‘ādat Shahr,30.0786,53.1397,Iran
+331,Qīr,28.4825,53.0346,Iran
+332,Varazqān,38.6755,46.1121,Iran
+333,Fahraj,28.9503,58.885,Iran
+334,Āshkhāneh,37.5614,56.9211,Iran
+335,Solţānābād,36.4035,58.0389,Iran
+336,Ābādeh,31.1608,52.6506,Iran
+337,Sarakhs,36.5447,61.1575,Iran
+338,Feyẕābād,35.0189,58.7834,Iran
+339,Bastak,27.1992,54.3667,Iran
+340,Ḩājjīābād,28.3574,54.4233,Iran
+341,Haftkel,31.4422,49.5317,Iran
+342,Khowrmūj,28.6542,51.38,Iran
+343,Fīrūzkūh,35.7567,52.7706,Iran
+344,Gerāsh,27.665,54.1369,Iran
+345,Shahr-e Qadīm-e Lār,27.6834,54.3417,Iran
+346,Nūrābād,30.1141,51.5217,Iran
+347,Rāsak,26.2368,61.399,Iran
+348,Fāryāb,28.0987,57.2318,Iran
+349,Hoveyzeh,31.4619,48.0739,Iran
+350,‘Anbarābād,28.4758,57.8481,Iran
+351,Roshtkhvār,34.9667,59.6167,Iran
+352,Anār,30.8733,55.2706,Iran
+353,Manūjān,27.4064,57.5014,Iran
+354,Bandar-e Khamīr,26.9522,55.585,Iran
+355,Arakvāz-e Malekshāhī,33.3828,46.5983,Iran
+356,Kaleybar,38.8667,47.0333,Iran
+357,Arzū’īyeh,28.4414,56.3728,Iran
+358,Khvāf,34.6472,60.0475,Iran
+359,Māmūnīyeh,35.3056,50.4992,Iran
+360,Māhneshān,36.7442,47.6725,Iran
+361,Āshtīān,34.5219,50.0058,Iran
+362,Garmeh,36.9833,56.2833,Iran
+363,Eqlīd,30.8881,52.685,Iran
+364,Nīkshahr,26.2258,60.2142,Iran
+365,Neyrīz,29.1986,54.3278,Iran
+366,Gonābād,34.3528,58.6836,Iran
+367,Kalāt-e Nāderī,36.9833,59.7667,Iran
+368,Sūrīān,30.4551,53.651,Iran
+369,Zābolī,27.131,61.6744,Iran
+370,Qarah Āghāj,37.2187,47.2167,Iran
+371,Sūrān,27.2856,61.9964,Iran
+372,Konārak,25.3603,60.3994,Iran
+373,Dehlorān,32.6942,47.2678,Iran
+374,Bardsīr,29.9275,56.5722,Iran
+375,Qā’en,33.7267,59.1844,Iran
+376,Ḩājjīābād,33.605,59.9934,Iran
+377,Moḩammadābād,28.6689,59.0733,Iran
+378,Bardaskan,35.2622,57.9707,Iran
+379,Asadīyeh,32.9428,59.72,Iran
+380,Khonj,27.8833,53.4333,Iran
+381,Hendījān,30.2364,49.7119,Iran
+382,Abarkūh,31.1289,53.2822,Iran
+383,Tafresh,34.6919,50.0128,Iran
+384,Sorkheh,35.4633,53.2139,Iran
+385,Garmsār,35.2167,52.3333,Iran
+386,Ārādān,35.2497,52.4933,Iran
+387,Farāshband,28.8714,52.0917,Iran
+388,Qal‘eh Ganj,27.5236,57.8811,Iran
+389,Khāsh,28.2211,61.2158,Iran
+390,Jājarm,36.9501,56.38,Iran
+391,Ferdows,34.0186,58.1722,Iran
+392,Ḩājjīābād,28.3091,55.9017,Iran
+393,Bajestān,34.5164,58.1844,Iran
+394,Mehrīz,31.5853,54.4415,Iran
+395,Ashkez̄ar,32.0,54.2044,Iran
+396,Mehrān,33.1222,46.1647,Iran
+397,Shahr-e Bābak,30.1164,55.1186,Iran
+398,Dalgān,27.4753,59.4717,Iran
+399,Kūhbanān,31.4103,56.2825,Iran
+400,Sardasht,26.4558,57.9028,Iran
+401,Sarbīsheh,32.5756,59.7983,Iran
+402,Mayāmey,36.4109,55.6502,Iran
+403,Shahr-e Herāt,30.0542,54.3731,Iran
+404,Boshrūyeh,33.8683,57.4289,Iran
+405,Bāfq,31.6053,55.4028,Iran
+406,Jāsk,25.6439,57.7744,Iran
+407,Ardakān,32.3094,54.0186,Iran
+408,Sarāyān,33.8603,58.5217,Iran
+409,Rāvar,31.2656,56.8056,Iran
+410,Nehbandān,31.5419,60.0364,Iran
+411,Ţabas,33.5883,56.9225,Iran
+412,Nā’īn,32.8601,53.0875,Iran
